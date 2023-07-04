@@ -9,6 +9,15 @@ body {
   font-family: var(--default-font-family);
 }
 
+.background {
+  background: #f9f7fe;
+}
+.back {
+  margin: 200px;
+  box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
 h1,
 h2,
 h3,
